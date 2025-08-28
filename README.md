@@ -1,2 +1,3 @@
-# SwiftSync_app
-SwiftSync app repository.
+# SwiftSync Demo
+
+This is a demo repository for Le Chat integration.
